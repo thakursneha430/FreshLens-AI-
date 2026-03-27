@@ -1,8 +1,8 @@
 tensorflow
 opencv-python
 numpy
-pandas
-matplotlib
-scikit-learn
-Pillow
 streamlit
+flask
+python
+css
+html
