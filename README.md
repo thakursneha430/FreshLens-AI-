@@ -1,4 +1,4 @@
-## FreshLens-AI
+## FreshLens-AI-
 ## 🛠️ Tech Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
