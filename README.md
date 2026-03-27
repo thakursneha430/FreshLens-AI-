@@ -1,4 +1,4 @@
-# FreshLens-AI
+## FreshLens-AI
 ## 🛠️ Tech Stack
 🤖 AI / Machine Learning<br>
 🌐 Web Development<br>
@@ -26,7 +26,6 @@
 2️⃣ Image gets preprocessed<br>
 3️⃣ CNN model predicts freshness<br>
 5️⃣ Result displayed on web app<br>
-⚙️ Installation & Setup
 
 ## 📊 Future Improvements i want to make in future
 🚀 Mobile app version<br>
